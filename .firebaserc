@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "sanketh-clone",
+    "clone-amazon": "sanketh-clone"
+  },
+  "targets": {}
+}
